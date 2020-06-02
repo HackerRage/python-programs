@@ -1,0 +1,1 @@
+In these programs if you want to use send mail function to send report of your victim on your mail id then first you have to disable to less secure app feature and then specify your mail id and password in these programs
